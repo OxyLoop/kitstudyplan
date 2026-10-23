@@ -1,0 +1,14 @@
+node_modules
+dist
+.cache
+tsconfig.tsbuildinfo
+__pycache__
+*.pyc
+.claude/
+
+# personal planning data (exported plans, private course records)
+my-plan-*.json
+german-course-*.json
+*.private.json
+# source PDF: the repository ships the copy in public/
+/mhb-master-cds.pdf

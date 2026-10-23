@@ -1,0 +1,789 @@
+{
+  "pdf": {
+    "file": "mhb-master-cds.pdf",
+    "pages": 1168,
+    "sha256": "dcd3c00050a1eb87070e8e40e5ab9e2f7e8b6f08040e277c8bfc74ec07f1c102",
+    "title": "Computational and Data Science (M.Sc.)",
+    "author": "KIT Department of Mathematics",
+    "creationDate": "D:20261020183909+02'00'"
+  },
+  "summary": {
+    "modulesExtracted": 375,
+    "componentsExtracted": 531,
+    "structureNodes": 31,
+    "modulesInToc": 375,
+    "componentsInToc": 531,
+    "errors": 0,
+    "warnings": 92,
+    "ambiguities": 1,
+    "errorCodes": {},
+    "warningCodes": {
+      "NO_DESCRIPTION_SECTIONS": 92
+    },
+    "ambiguityCodes": {
+      "DUPLICATE_STRUCTURE_NUMBER": 1
+    },
+    "modulesWithWinterRecurrence": 162,
+    "modulesScheduledWS2026": 164,
+    "pagesProcessed": 1168,
+    "glyphsNormalized": 13,
+    "valuesVerifiedOnPage": 4735
+  },
+  "missingModuleFields": {
+    "section:competenceGoal": {
+      "count": 25,
+      "ids": [
+        "M-BGU-102445",
+        "M-INFO-100732",
+        "M-INFO-100738",
+        "M-INFO-100848",
+        "M-INFO-101536",
+        "M-INFO-101559",
+        "M-INFO-101635",
+        "M-INFO-102305",
+        "M-INFO-102373",
+        "M-INFO-102375",
+        "M-INFO-102383",
+        "M-INFO-102550",
+        "M-INFO-102966",
+        "M-INFO-103235",
+        "M-INFO-103302",
+        "M-INFO-104941",
+        "M-INFO-105378",
+        "M-INFO-105409",
+        "M-INFO-105868",
+        "M-INFO-106023",
+        "M-INFO-106261",
+        "M-INFO-106290",
+        "M-INFO-106594",
+        "M-INFO-106870",
+        "M-MATH-107752"
+      ]
+    },
+    "section:content": {
+      "count": 26,
+      "ids": [
+        "M-BGU-102445",
+        "M-CHEMBIO-107819",
+        "M-INFO-100732",
+        "M-INFO-100738",
+        "M-INFO-100848",
+        "M-INFO-101536",
+        "M-INFO-101559",
+        "M-INFO-101635",
+        "M-INFO-102305",
+        "M-INFO-102373",
+        "M-INFO-102375",
+        "M-INFO-102383",
+        "M-INFO-102550",
+        "M-INFO-102966",
+        "M-INFO-103235",
+        "M-INFO-103302",
+        "M-INFO-104941",
+        "M-INFO-105378",
+        "M-INFO-105409",
+        "M-INFO-105868",
+        "M-INFO-106023",
+        "M-INFO-106261",
+        "M-INFO-106290",
+        "M-INFO-106594",
+        "M-INFO-106870",
+        "M-MATH-107752"
+      ]
+    },
+    "section:prerequisites": {
+      "count": 47,
+      "ids": [
+        "M-BGU-103406",
+        "M-BGU-107004",
+        "M-BGU-107711",
+        "M-CHEMBIO-107791",
+        "M-CHEMBIO-107823",
+        "M-CHEMBIO-107824",
+        "M-CIWVT-106320",
+        "M-CIWVT-106837",
+        "M-CIWVT-107424",
+        "M-ETIT-105123",
+        "M-ETIT-105616",
+        "M-INFO-100732",
+        "M-INFO-100738",
+        "M-INFO-100848",
+        "M-INFO-101536",
+        "M-INFO-101559",
+        "M-INFO-101635",
+        "M-INFO-102305",
+        "M-INFO-102373",
+        "M-INFO-102375",
+        "M-INFO-102383",
+        "M-INFO-102550",
+        "M-INFO-102966",
+        "M-INFO-103235",
+        "M-INFO-103302",
+        "M-INFO-104941",
+        "M-INFO-105378",
+        "M-INFO-105409",
+        "M-INFO-105792",
+        "M-INFO-105868",
+        "M-INFO-105884",
+        "M-INFO-106023",
+        "M-INFO-106261",
+        "M-INFO-106290",
+        "M-INFO-106594",
+        "M-INFO-106870",
+        "M-INFO-107163",
+        "M-MATH-102935",
+        "M-MATH-103079",
+        "M-MATH-105093",
+        "M-MATH-106950",
+        "M-PHYS-105715",
+        "M-PHYS-105716",
+        "M-PHYS-105718",
+        "M-PHYS-105942",
+        "M-PHYS-106117",
+        "M-WIWI-101498"
+      ]
+    },
+    "coordinators": {
+      "count": 3,
+      "ids": [
+        "M-CIWVT-106564",
+        "M-CIWVT-107360",
+        "M-MATH-107752"
+      ]
+    },
+    "section:workload": {
+      "count": 26,
+      "ids": [
+        "M-CIWVT-107360",
+        "M-ETIT-104485",
+        "M-INFO-100732",
+        "M-INFO-100738",
+        "M-INFO-100848",
+        "M-INFO-101536",
+        "M-INFO-101559",
+        "M-INFO-101635",
+        "M-INFO-102305",
+        "M-INFO-102373",
+        "M-INFO-102375",
+        "M-INFO-102383",
+        "M-INFO-102550",
+        "M-INFO-102966",
+        "M-INFO-103302",
+        "M-INFO-104941",
+        "M-INFO-105378",
+        "M-INFO-105409",
+        "M-INFO-105868",
+        "M-INFO-105884",
+        "M-INFO-106023",
+        "M-INFO-106261",
+        "M-INFO-106290",
+        "M-INFO-106594",
+        "M-INFO-106870",
+        "M-MATH-107752"
+      ]
+    },
+    "section:assessment": {
+      "count": 26,
+      "ids": [
+        "M-INFO-100732",
+        "M-INFO-100738",
+        "M-INFO-100848",
+        "M-INFO-101536",
+        "M-INFO-101559",
+        "M-INFO-101635",
+        "M-INFO-102305",
+        "M-INFO-102373",
+        "M-INFO-102375",
+        "M-INFO-102383",
+        "M-INFO-102550",
+        "M-INFO-102966",
+        "M-INFO-103235",
+        "M-INFO-103302",
+        "M-INFO-104941",
+        "M-INFO-105378",
+        "M-INFO-105409",
+        "M-INFO-105792",
+        "M-INFO-105868",
+        "M-INFO-105884",
+        "M-INFO-106023",
+        "M-INFO-106261",
+        "M-INFO-106290",
+        "M-INFO-106594",
+        "M-INFO-106870",
+        "M-MATH-107752"
+      ]
+    }
+  },
+  "missingComponentFields": {},
+  "errors": [],
+  "warnings": [
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-100732",
+      "page": 231
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-100738",
+      "page": 232
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-100848",
+      "page": 237
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-101536",
+      "page": 238
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-101559",
+      "page": 239
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-101635",
+      "page": 240
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-102305",
+      "page": 242
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-102373",
+      "page": 243
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-102375",
+      "page": 244
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-102383",
+      "page": 245
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-102550",
+      "page": 246
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-102966",
+      "page": 248
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-103302",
+      "page": 250
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-104941",
+      "page": 252
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-105378",
+      "page": 255
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-105409",
+      "page": 257
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-105868",
+      "page": 262
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-106023",
+      "page": 265
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-106261",
+      "page": 270
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-106290",
+      "page": 271
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-106594",
+      "page": 281
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "M-INFO-106870",
+      "page": 302
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-BGU-106801",
+      "page": 579
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CHEMBIO-115214",
+      "page": 635
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CHEMBIO-115216",
+      "page": 636
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CHEMBIO-115217",
+      "page": 637
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CHEMBIO-115218",
+      "page": 638
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CHEMBIO-115219",
+      "page": 639
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CHEMBIO-115221",
+      "page": 641
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CHEMBIO-115225",
+      "page": 644
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CHEMBIO-115226",
+      "page": 645
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CHEMBIO-115227",
+      "page": 646
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CIWVT-106067",
+      "page": 651
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CIWVT-106802",
+      "page": 652
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CIWVT-112825",
+      "page": 660
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CIWVT-112826",
+      "page": 661
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CIWVT-112827",
+      "page": 662
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CIWVT-113490",
+      "page": 668
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CIWVT-113712",
+      "page": 670
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-CIWVT-114437",
+      "page": 673
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-101269",
+      "page": 709
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-101270",
+      "page": 710
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-101275",
+      "page": 711
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-101385",
+      "page": 716
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-102952",
+      "page": 717
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-102990",
+      "page": 718
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-103121",
+      "page": 719
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-104741",
+      "page": 722
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-104743",
+      "page": 723
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-104746",
+      "page": 724
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-105128",
+      "page": 725
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-105943",
+      "page": 728
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-106426",
+      "page": 731
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-106580",
+      "page": 732
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-110046",
+      "page": 734
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-110905",
+      "page": 740
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-111801",
+      "page": 748
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-111832",
+      "page": 749
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-112209",
+      "page": 751
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-112710",
+      "page": 756
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-112749",
+      "page": 757
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-113284",
+      "page": 769
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-113763",
+      "page": 792
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-INFO-113764",
+      "page": 793
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-102253",
+      "page": 878
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105686",
+      "page": 884
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105834",
+      "page": 886
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105835",
+      "page": 887
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105840",
+      "page": 892
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105846",
+      "page": 894
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105855",
+      "page": 896
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105856",
+      "page": 897
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105894",
+      "page": 909
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105901",
+      "page": 913
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105902",
+      "page": 914
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105908",
+      "page": 915
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-105920",
+      "page": 920
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-110302",
+      "page": 935
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-MATH-114059",
+      "page": 964
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-104479",
+      "page": 982
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-104736",
+      "page": 987
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-104737",
+      "page": 988
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-105960",
+      "page": 992
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-106131",
+      "page": 995
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-109887",
+      "page": 1000
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-109895",
+      "page": 1001
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-109904",
+      "page": 1002
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-112018",
+      "page": 1031
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-112378",
+      "page": 1033
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-112582",
+      "page": 1034
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-112843",
+      "page": 1037
+    },
+    {
+      "code": "NO_DESCRIPTION_SECTIONS",
+      "message": "Handbook entry contains no description sections (only header data)",
+      "id": "T-PHYS-113706",
+      "page": 1049
+    }
+  ],
+  "ambiguities": [
+    {
+      "code": "DUPLICATE_STRUCTURE_NUMBER",
+      "message": "Structure section number used twice in the handbook; disambiguated",
+      "number": "3.5.3.6.1",
+      "title": "Focus: Technologies of Electrical Engineering",
+      "uid": "3.5.3.6.1#2",
+      "page": 62
+    }
+  ],
+  "notes": [
+    "Study plan Tables 1-5 (pages 21, 29-32) are images without a text layer and are referenced by page only.",
+    "Recurring offering (module 'Recurrence') is distinct from a course actually listed for 'WT 26/27' in a component's Courses table.",
+    "No weekly meeting times are present in the handbook; none are extracted.",
+    "Ligature/symbol glyphs were normalised (e.g. U+FB01 'ﬁ' -> 'fi', U+01AF -> 'ff' in the disclaimer font, U+F0B7 -> '•'): U+01AF×4, U+F0B7×2, U+FB01×6, U+FB02×1. handbook-pages.json keeps the raw PDF text."
+  ]
+}

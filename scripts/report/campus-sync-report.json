@@ -1,0 +1,1516 @@
+{
+ "generatedAt": "2026-10-23T14:23:12+00:00",
+ "semester": "WS 2026/27",
+ "network": {
+  "status": "offline",
+  "message": null,
+  "cached": [],
+  "fetchedUnparsed": [],
+  "errors": [],
+  "skipped": []
+ },
+ "issues": [],
+ "summary": {
+  "eligibleModules": 140,
+  "matchedModules": 126,
+  "unmatchedModules": 14,
+  "modulesNeedingReview": 16,
+  "languageUnverified": 24,
+  "events": 248,
+  "eventsWithVerifiedSchedule": 5,
+  "eligibleModulesWithVerifiedSchedule": 5
+ },
+ "matched": [
+  {
+   "moduleId": "M-BGU-101011",
+   "name": "Geoinformatics",
+   "events": [
+    "6022106"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-101051",
+   "name": "Hyperspectral Remote Sensing",
+   "events": [
+    "6047101",
+    "6047102"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-103360",
+   "name": "Water and Energy Cycles",
+   "events": [
+    "6224702"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-103375",
+   "name": "Numerical Fluid Mechanics",
+   "events": [
+    "6221702"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-103383",
+   "name": "Environmental Fluid Mechanics",
+   "events": [
+    "6221909"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-104517",
+   "name": "Computer Vision and Remote Sensing",
+   "events": [
+    "6048101",
+    "6048102"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-104531",
+   "name": "Advanced Topics in Computer Vision",
+   "events": [
+    "6042103"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-105362",
+   "name": "Modeling of Turbulent Flows - RANS and LES",
+   "events": [
+    "6221911"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-105729",
+   "name": "3D Geological Modelling",
+   "events": [
+    "6339047"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-105730",
+   "name": "Shallow Geothermal Energy",
+   "events": [
+    "6339115",
+    "6339116"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-105739",
+   "name": "Numerical Methods in Geosciences",
+   "events": [
+    "6339078"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-105741",
+   "name": "Geothermics I: Energy and Transport Processes",
+   "events": [
+    "6339091",
+    "6339196",
+    "6339092"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-105744",
+   "name": "Geology",
+   "events": [
+    "6339080",
+    "6339086"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-105745",
+   "name": "Borehole Technology",
+   "events": [
+    "6339095"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-105773",
+   "name": "Basin Analysis and Modeling",
+   "events": [
+    "6339072"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-106114",
+   "name": "Experimental Hydraulics and Measurement Techniques",
+   "events": [
+    "6222907",
+    "6221907"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-106898",
+   "name": "Introduction to Computational Geodynamics: Part 1",
+   "events": [
+    "6339135"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-107709",
+   "name": "Environmental Geodesy - Radar Remote Sensing",
+   "events": [
+    "6025106",
+    "6025107"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-107710",
+   "name": "Environmental Geodesy - Geometric Earth Observation",
+   "events": [
+    "6025102",
+    "6019404"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-107860",
+   "name": "Fracture and Damage Mechanics",
+   "events": [
+    "6215903",
+    "6215904"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-BGU-107872",
+   "name": "Computational Earth System Sciences – Overview and Selected Topics",
+   "events": [
+    "6224909"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-CIWVT-103407",
+   "name": "Water Technology",
+   "events": [
+    "2233030",
+    "2233031"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-CIWVT-105206",
+   "name": "Design of a Jet Engine Combustion Chamber",
+   "events": [
+    "2232310"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-CIWVT-105207",
+   "name": "Energy from Biomass",
+   "events": [
+    "2231220"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-CIWVT-106316",
+   "name": "Nonlinear Process Control",
+   "events": [
+    "2243050"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-CIWVT-106319",
+   "name": "Data-Based Modeling and Control",
+   "events": [
+    "2243070"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-CIWVT-106320",
+   "name": "Estimator and Observer Design",
+   "events": [
+    "2243110"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-CIWVT-106564",
+   "name": "Single-Cell Technologies",
+   "events": [
+    "2213030"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-CIWVT-106566",
+   "name": "Chemical Hydrogen Storage",
+   "events": [
+    "2231420"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-CIWVT-106676",
+   "name": "Introduction to Numerical Simulation of Reacting Flows",
+   "events": [
+    "2232130",
+    "2232131"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-CIWVT-106837",
+   "name": "Bioprocess Scale-up",
+   "events": [
+    "2213040",
+    "2213041"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-100386",
+   "name": "Electromagnetics and Numerical Calculation of Fields",
+   "events": [
+    "2141110",
+    "2141111"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-100427",
+   "name": "Modern Radio Systems Engineering",
+   "events": [
+    "2308430",
+    "2308431"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-100449",
+   "name": "Hardware Modeling and Simulation",
+   "events": [
+    "2311608",
+    "2311610"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-100468",
+   "name": "Lab Course on Nanoelectronics",
+   "events": [
+    "2312669"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-100478",
+   "name": "Laboratory Nanotechnology",
+   "events": [
+    "2313714"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-103270",
+   "name": "Optical Networks and Systems",
+   "events": [
+    "2309470",
+    "2309471"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-105606",
+   "name": "Quantum Detectors and Sensors",
+   "events": [
+    "2312706",
+    "2312707"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-105617",
+   "name": "Channel Coding: Graph-Based Codes",
+   "events": [
+    "2310520",
+    "2310521"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-105971",
+   "name": "Mobile Communications",
+   "events": [
+    "2310523",
+    "2310524"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-106815",
+   "name": "Advanced Communications Engineering",
+   "events": [
+    "2310540",
+    "2310541"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-106899",
+   "name": "Signal Processing Methods",
+   "events": [
+    "2302113",
+    "2302115"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-106955",
+   "name": "Radio-Frequency Electronics",
+   "events": [
+    "2308503",
+    "2308504"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-106956",
+   "name": "Antennas and Beamforming",
+   "events": [
+    "2308465",
+    "2308466"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-107136",
+   "name": "Communications Engineering Lab",
+   "events": [
+    "2310517"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-107294",
+   "name": "Mechatronic Measurement Systems Lab",
+   "events": [
+    "2302123"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-107333",
+   "name": "Applied Information Theory",
+   "events": [
+    "2310537",
+    "2310539"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-ETIT-107344",
+   "name": "Integrated Photonics",
+   "events": [
+    "2309440",
+    "2309441"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-100749",
+   "name": "Introduction to Bioinformatics for Computer Scientists",
+   "events": [
+    "2400055"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-102305",
+   "name": "Seminar: From Big Data to Data Science: Advanced Methods of Information Fusion",
+   "events": [
+    "2424344"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-102373",
+   "name": "Seminar Computer Vision for Human-Computer Interaction",
+   "events": [
+    "2424358"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-105329",
+   "name": "Optimization Methods for Machine Learning and Engineering",
+   "events": [
+    "2400280",
+    "2400281"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-105623",
+   "name": "Reinforcement Learning",
+   "events": [
+    "2400163"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "verified"
+  },
+  {
+   "moduleId": "M-INFO-105792",
+   "name": "Humanoid Robotics Laboratory",
+   "events": [
+    "2424890"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-105884",
+   "name": "Seminar: Digital Accessibility and Assistive Technologies",
+   "events": [
+    "2400129"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106190",
+   "name": "Computational Imaging",
+   "events": [
+    "2400173"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106237",
+   "name": "Geometric Deep Learning",
+   "events": [
+    "2400179"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "verified"
+  },
+  {
+   "moduleId": "M-INFO-106490",
+   "name": "Seminar: Artificial Intelligence for Energy Systems",
+   "events": [
+    "2400175"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106495",
+   "name": "Research Practical Course: Explainable Artificial Intelligence",
+   "events": [
+    "2400142"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106504",
+   "name": "Simulation and Optimization in Robotics and Biomechanics",
+   "events": [
+    "2400160"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106608",
+   "name": "Autonomous Learning for Intelligent Robot Perception",
+   "events": [
+    "2400213"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106626",
+   "name": "Engineering Self-Adaptive Systems",
+   "events": [
+    "2400186"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106646",
+   "name": "Practical Course: Human-Centred Robotics",
+   "events": [
+    "2400193"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106810",
+   "name": "Artificial Intelligence & IT-Security",
+   "events": [
+    "24000"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106812",
+   "name": "Advanced Bayesian Data Analysis",
+   "events": [
+    "2400120"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106864",
+   "name": "Energy Informatics",
+   "events": [
+    "2400058"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106868",
+   "name": "Seminar: Hot Topics in Artificial Intelligence & Security 1",
+   "events": [
+    "24004",
+    "24005"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106871",
+   "name": "Research Project: Machine Learning for Autonomous Agents and Decision Making",
+   "events": [
+    "2400240"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106927",
+   "name": "Seminar: Exoskeletons & Motion Capture",
+   "events": [
+    "2400187"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-106996",
+   "name": "Practical Course: Application Security",
+   "events": [
+    "2400114"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107174",
+   "name": "Research Project Deep Learning for Robotics",
+   "events": [
+    "2400091"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107175",
+   "name": "Seminar: Deep Learning for Robotics",
+   "events": [
+    "2400099"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107178",
+   "name": "Natural Language Processing",
+   "events": [
+    "2400147"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "verified"
+  },
+  {
+   "moduleId": "M-INFO-107199",
+   "name": "Parallel Algorithms",
+   "events": [
+    "2400053"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107215",
+   "name": "Distributed Computing",
+   "events": [
+    "2400050"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "verified"
+  },
+  {
+   "moduleId": "M-INFO-107233",
+   "name": "Natural Language Processing and Software Engineering",
+   "events": [
+    "2424187"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107234",
+   "name": "Edge-AI in Software and Sensor Applications",
+   "events": [
+    "2400124"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107436",
+   "name": "Seminar: Failing Forward: Robotics, Critical Reading and the Making of Good Research",
+   "events": [
+    "2400194"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107598",
+   "name": "Robotics Institute Germany - Lecture Series",
+   "events": [
+    "2400246"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107609",
+   "name": "Practical Course: Mathematical and Computational Methods in Robotics and AI",
+   "events": [
+    "2400181"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107677",
+   "name": "Practical Course: Continuous Software Engineering",
+   "events": [
+    "2400105"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107678",
+   "name": "Practical Course: Engineering Approaches to Software Development",
+   "events": [
+    "2400093"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107843",
+   "name": "Deep Learning for Computer Vision: Advanced Topics",
+   "events": [
+    "2400258"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107845",
+   "name": "Practical Course: Machine Learning and Intelligent Systems",
+   "events": [
+    "2424281"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-INFO-107846",
+   "name": "Seminar for Practical Course: Machine Learning and Intelligent Systems",
+   "events": [
+    "2400067"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-MACH-107094",
+   "name": "Computational Elasticity",
+   "events": [
+    "2161250",
+    "2161147"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-MACH-107437",
+   "name": "Computational Mechanics of Materials",
+   "events": [
+    "2161254",
+    "2161255"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-MATH-101320",
+   "name": "Functional Analysis",
+   "events": [
+    "0104800",
+    "0104810"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-MATH-102870",
+   "name": "Classical Methods for Partial Differential Equations",
+   "events": [
+    "0105300",
+    "0105310"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-MATH-102890",
+   "name": "Inverse Problems",
+   "events": [
+    "0105100",
+    "0105110"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-MATH-102891",
+   "name": "Finite Element Methods",
+   "events": [
+    "0110300",
+    "0110310"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-MATH-102919",
+   "name": "Discrete Time Finance",
+   "events": [
+    "0108400",
+    "0108500"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-MATH-106053",
+   "name": "Stochastic Simulation",
+   "events": [
+    "0100027"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "verified"
+  },
+  {
+   "moduleId": "M-PHYS-101395",
+   "name": "Advanced Physics Laboratory Course",
+   "events": [
+    "4011333",
+    "4011349"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102075",
+   "name": "Astroparticle Physics I",
+   "events": [
+    "4022011",
+    "4022012"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102089",
+   "name": "Electronic Properties of Solids I, with Exercises",
+   "events": [
+    "4021011",
+    "4021012"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102097",
+   "name": "Basics of Nanotechnology I",
+   "events": [
+    "4021041"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102114",
+   "name": "Particle Physics I",
+   "events": [
+    "4022031",
+    "4022032"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102121",
+   "name": "Detectors for Particle and Astroparticle Physics, with ext. Exercises",
+   "events": [
+    "4022071",
+    "4022072"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102146",
+   "name": "Nano-Optics",
+   "events": [
+    "4020021",
+    "4020022"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102184",
+   "name": "Electronics for Physicists",
+   "events": [
+    "4022061",
+    "4022062"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102203",
+   "name": "Advanced Seminar in the Area Condensed Matter",
+   "events": [
+    "4013814",
+    "4013134"
+   ],
+   "languageStatus": "confirmed-event-excerpt",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102204",
+   "name": "Advanced Seminar in the Area Nanophysics",
+   "events": [
+    "4013134",
+    "4013314"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102205",
+   "name": "Advanced Seminar in the Area Optics and Photonics",
+   "events": [
+    "4013814"
+   ],
+   "languageStatus": "confirmed-event-excerpt",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102206",
+   "name": "Advanced Seminar in the Area Experimental Particle Physics",
+   "events": [
+    "4013734",
+    "4013814",
+    "4013214",
+    "4013244"
+   ],
+   "languageStatus": "confirmed-event-excerpt",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102207",
+   "name": "Advanced Seminar in the Area Experimental Astroparticle Physics",
+   "events": [
+    "4013224",
+    "4013814",
+    "4013624"
+   ],
+   "languageStatus": "confirmed-event-excerpt",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102208",
+   "name": "Advanced Seminar in the Area Theoretical Particle Physics",
+   "events": [
+    "4013434",
+    "4013734",
+    "4013624"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102209",
+   "name": "Advanced Seminar in the Area Condensed Matter Theory",
+   "events": [
+    "4013434",
+    "4013414",
+    "4013314"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102408",
+   "name": "Solid-State Optics",
+   "events": [
+    "4020011"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-102989",
+   "name": "Electron Microscopy I, with Exercises",
+   "events": [
+    "4027011",
+    "4027012"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-104869",
+   "name": "Accelerator Physics, with ext. Exercises",
+   "events": [
+    "4028011",
+    "4028012"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-105225",
+   "name": "Seismology",
+   "events": [
+    "4060171",
+    "4060172"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-105715",
+   "name": "Components of the Climate System",
+   "events": [
+    "4052194",
+    "4052111",
+    "4052112",
+    "4052151",
+    "4052152",
+    "4052061",
+    "4052121",
+    "4052101"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-105716",
+   "name": "Atmospheric Processes",
+   "events": [
+    "4052081",
+    "4052082",
+    "4052131",
+    "4052071",
+    "4052171",
+    "4052172"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-106193",
+   "name": "Quantum Detectors and Sensors",
+   "events": [
+    "2312706",
+    "2312707"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-106326",
+   "name": "Seismics",
+   "events": [
+    "4060111",
+    "4060112"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-PHYS-106829",
+   "name": "Advanced Seminar in the Area Theoretical Cosmology and Astroparticle Physics",
+   "events": [
+    "4013624"
+   ],
+   "languageStatus": "unverified",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-WIWI-101473",
+   "name": "Mathematical Programming",
+   "events": [
+    "2550155",
+    "2550156",
+    "2550111",
+    "2550112",
+    "2550113",
+    "2550114",
+    "2550480",
+    "2550481"
+   ],
+   "languageStatus": "confirmed-event-excerpt",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-WIWI-101500",
+   "name": "Microeconomic Theory",
+   "events": [
+    "2500037",
+    "2500038",
+    "2520408",
+    "2520409",
+    "2500042"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-WIWI-101506",
+   "name": "Service Analytics",
+   "events": [
+    "2595650",
+    "2595651",
+    "2540422",
+    "2595477",
+    "2500078"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-WIWI-101647",
+   "name": "Data Science: Evidence-based Marketing",
+   "events": [
+    "2572170",
+    "2572171"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-WIWI-102832",
+   "name": "Operations Research in Supply Chain Management",
+   "events": [
+    "2550490",
+    "2550480",
+    "2550481",
+    "2117054",
+    "2550155",
+    "2550156"
+   ],
+   "languageStatus": "confirmed-event-excerpt",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-WIWI-103117",
+   "name": "Data Science: Data-Driven Information Systems",
+   "events": [
+    "2595650",
+    "2595651",
+    "2540422",
+    "2540473",
+    "00053",
+    "2500045",
+    "2600052",
+    "2540554",
+    "2545164"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-WIWI-103289",
+   "name": "Stochastic Optimization",
+   "events": [
+    "2550155",
+    "2550156",
+    "2550480",
+    "2550481",
+    "2550464",
+    "2550465",
+    "2550466"
+   ],
+   "languageStatus": "confirmed-event-excerpt",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-WIWI-105714",
+   "name": "Consumer Research",
+   "events": [
+    "2500040",
+    "2540441",
+    "2500059"
+   ],
+   "languageStatus": "confirmed-handbook",
+   "schedule": "unavailable"
+  },
+  {
+   "moduleId": "M-WIWI-107362",
+   "name": "Seminar / Research Oriented Study Project",
+   "events": [
+    "2500045",
+    "2500077",
+    "2500125",
+    "2530293",
+    "2530586",
+    "2540472",
+    "2540473",
+    "2540475",
+    "2540478",
+    "2540557",
+    "2545105",
+    "2571181",
+    "2573012",
+    "2573013",
+    "2581030",
+    "2581032",
+    "2581033",
+    "2581976",
+    "2581977",
+    "2581978",
+    "2581979",
+    "2581980",
+    "2581981",
+    "2581990",
+    "2581991",
+    "2581997",
+    "2500024",
+    "2520563",
+    "2521310",
+    "2560130",
+    "2560142",
+    "2560143",
+    "2560282",
+    "2561208",
+    "2500056",
+    "2550131",
+    "2550132",
+    "2550462",
+    "2550473",
+    "2500074"
+   ],
+   "languageStatus": "confirmed-event-excerpt",
+   "schedule": "unavailable"
+  }
+ ],
+ "unmatched": [
+  {
+   "moduleId": "M-BGU-104553",
+   "name": "Fundamentals of Environmental Geodesy",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-BGU-107016",
+   "name": "Urban Ecology",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-BGU-107857",
+   "name": "Finite Elements in Solid Mechanics",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-BGU-107873",
+   "name": "Research Oriented Study Project – Computational Earth System Sciences",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-CHEMBIO-108049",
+   "name": "Elective Module \"Theoretical Physics\" in Computational Chemistry (8 CR)",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-CHEMBIO-108050",
+   "name": "Elective Module \"Theoretical Physics\" in Computational Chemistry (6 LP)",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-INFO-106261",
+   "name": "Practical Course: Automotive Software Engineering",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-INFO-106594",
+   "name": "Seminar: Research Trends in Human-Computer Interaction",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-INFO-107209",
+   "name": "Seminar: Advanced Topics on SAT Solving",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-INFO-107686",
+   "name": "Seminar: Information Systems",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-INFO-107816",
+   "name": "Seminar: Neural Networks and Artificial Intelligence",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-MATH-102730",
+   "name": "Seminar",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-MATH-107479",
+   "name": "Hackathon",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  },
+  {
+   "moduleId": "M-MATH-107752",
+   "name": "Key Competences",
+   "reason": "No WT 26/27 course is listed in the handbook for this module."
+  }
+ ],
+ "ambiguous": [
+  {
+   "moduleId": "M-ETIT-105606",
+   "name": "Quantum Detectors and Sensors",
+   "review": [
+    "Event 2312706 is shared by modules M-ETIT-105606, M-PHYS-106193.",
+    "Event 2312707 is shared by modules M-ETIT-105606, M-PHYS-106193."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102203",
+   "name": "Advanced Seminar in the Area Condensed Matter",
+   "review": [
+    "Event 4013814 is shared by modules M-PHYS-102203, M-PHYS-102205, M-PHYS-102206, M-PHYS-102207.",
+    "Event 4013134 is shared by modules M-PHYS-102203, M-PHYS-102204."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102204",
+   "name": "Advanced Seminar in the Area Nanophysics",
+   "review": [
+    "Event 4013134 is shared by modules M-PHYS-102203, M-PHYS-102204.",
+    "Event 4013314 is shared by modules M-PHYS-102204, M-PHYS-102209."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102205",
+   "name": "Advanced Seminar in the Area Optics and Photonics",
+   "review": [
+    "Event 4013814 is shared by modules M-PHYS-102203, M-PHYS-102205, M-PHYS-102206, M-PHYS-102207."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102206",
+   "name": "Advanced Seminar in the Area Experimental Particle Physics",
+   "review": [
+    "Event 4013734 is shared by modules M-PHYS-102206, M-PHYS-102208.",
+    "Event 4013814 is shared by modules M-PHYS-102203, M-PHYS-102205, M-PHYS-102206, M-PHYS-102207."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102207",
+   "name": "Advanced Seminar in the Area Experimental Astroparticle Physics",
+   "review": [
+    "Event 4013814 is shared by modules M-PHYS-102203, M-PHYS-102205, M-PHYS-102206, M-PHYS-102207.",
+    "Event 4013624 is shared by modules M-PHYS-102207, M-PHYS-102208, M-PHYS-106829."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102208",
+   "name": "Advanced Seminar in the Area Theoretical Particle Physics",
+   "review": [
+    "Event 4013434 is shared by modules M-PHYS-102208, M-PHYS-102209.",
+    "Event 4013734 is shared by modules M-PHYS-102206, M-PHYS-102208.",
+    "Event 4013624 is shared by modules M-PHYS-102207, M-PHYS-102208, M-PHYS-106829."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102209",
+   "name": "Advanced Seminar in the Area Condensed Matter Theory",
+   "review": [
+    "Event 4013434 is shared by modules M-PHYS-102208, M-PHYS-102209.",
+    "Event 4013314 is shared by modules M-PHYS-102204, M-PHYS-102209."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-106193",
+   "name": "Quantum Detectors and Sensors",
+   "review": [
+    "Event 2312706 is shared by modules M-ETIT-105606, M-PHYS-106193.",
+    "Event 2312707 is shared by modules M-ETIT-105606, M-PHYS-106193."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-106829",
+   "name": "Advanced Seminar in the Area Theoretical Cosmology and Astroparticle Physics",
+   "review": [
+    "Event 4013624 is shared by modules M-PHYS-102207, M-PHYS-102208, M-PHYS-106829."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-101473",
+   "name": "Mathematical Programming",
+   "review": [
+    "Event 2550155 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550156 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550480 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550481 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-101506",
+   "name": "Service Analytics",
+   "review": [
+    "Event 2595650 is shared by modules M-WIWI-101506, M-WIWI-103117.",
+    "Event 2595651 is shared by modules M-WIWI-101506, M-WIWI-103117.",
+    "Event 2540422 is shared by modules M-WIWI-101506, M-WIWI-103117."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-102832",
+   "name": "Operations Research in Supply Chain Management",
+   "review": [
+    "Event 2550480 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550481 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550155 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550156 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-103117",
+   "name": "Data Science: Data-Driven Information Systems",
+   "review": [
+    "Event 2595650 is shared by modules M-WIWI-101506, M-WIWI-103117.",
+    "Event 2595651 is shared by modules M-WIWI-101506, M-WIWI-103117.",
+    "Event 2540422 is shared by modules M-WIWI-101506, M-WIWI-103117.",
+    "Event 2540473 is shared by modules M-WIWI-103117, M-WIWI-107362.",
+    "Event 2500045 is shared by modules M-WIWI-103117, M-WIWI-107362."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-103289",
+   "name": "Stochastic Optimization",
+   "review": [
+    "Event 2550155 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550156 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550480 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550481 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-107362",
+   "name": "Seminar / Research Oriented Study Project",
+   "review": [
+    "Event 2500045 is shared by modules M-WIWI-103117, M-WIWI-107362.",
+    "Event 2540473 is shared by modules M-WIWI-103117, M-WIWI-107362."
+   ]
+  }
+ ]
+}

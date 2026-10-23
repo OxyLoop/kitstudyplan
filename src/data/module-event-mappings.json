@@ -1,0 +1,4518 @@
+{
+ "meta": {
+  "generatedFrom": "public/data (Module Handbook 20/10/2026)",
+  "semester": "WS 2026/27"
+ },
+ "mappings": [
+  {
+   "moduleId": "M-BGU-101011",
+   "moduleName": "Geoinformatics",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6022106",
+     "componentIds": [
+      "T-BGU-110322",
+      "T-BGU-101742"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Geoinformatics (Part A), Exercises"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-101051",
+   "moduleName": "Hyperspectral Remote Sensing",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6047101",
+     "componentIds": [
+      "T-BGU-101721",
+      "T-BGU-101720"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Hyperspectral Remote Sensing, Lecture"
+    },
+    {
+     "eventNumber": "6047102",
+     "componentIds": [
+      "T-BGU-101721",
+      "T-BGU-101720"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Hyperspectral Remote Sensing, Exercises"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-103360",
+   "moduleName": "Water and Energy Cycles",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6224702",
+     "componentIds": [
+      "T-BGU-106596"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Water and Energy Cycles in Hydrological Systems: Processes, Predictions and Management"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-103375",
+   "moduleName": "Numerical Fluid Mechanics",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6221702",
+     "componentIds": [
+      "T-BGU-106758"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Numerical Fluid Mechanics I"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-103383",
+   "moduleName": "Environmental Fluid Mechanics",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6221909",
+     "componentIds": [
+      "T-BGU-106767"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Environmental Fluid Mechanics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-104517",
+   "moduleName": "Computer Vision and Remote Sensing",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6048101",
+     "componentIds": [
+      "T-BGU-101759"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Methods of Remote Sensing, Lecture"
+    },
+    {
+     "eventNumber": "6048102",
+     "componentIds": [
+      "T-BGU-101759"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Methods of Remote Sensing, Exercises"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-104531",
+   "moduleName": "Advanced Topics in Computer Vision",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6042103",
+     "componentIds": [
+      "T-BGU-109280",
+      "T-BGU-110748"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Advanced Topics in Computer Vision"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-104553",
+   "moduleName": "Fundamentals of Environmental Geodesy",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-BGU-105362",
+   "moduleName": "Modeling of Turbulent Flows - RANS and LES",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6221911",
+     "componentIds": [
+      "T-BGU-110842"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Modelling of Turbulent Flows -RANS and LES"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-105729",
+   "moduleName": "3D Geological Modelling",
+   "ects": 5,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "6339047",
+     "componentIds": [
+      "T-BGU-111446"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "3D Geological Modeling"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-105730",
+   "moduleName": "Shallow Geothermal Energy",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6339115",
+     "componentIds": [
+      "T-BGU-111447"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Thermal Use of Groundwater"
+    },
+    {
+     "eventNumber": "6339116",
+     "componentIds": [
+      "T-BGU-111447"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Shallow Geothermal Energy"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-105739",
+   "moduleName": "Numerical Methods in Geosciences",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6339078",
+     "componentIds": [
+      "T-BGU-111456"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Numerical Methods in Geosciences"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-105741",
+   "moduleName": "Geothermics I: Energy and Transport Processes",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6339091",
+     "componentIds": [
+      "T-BGU-111466"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Geothermics I: Transport of Heat and Fluids"
+    },
+    {
+     "eventNumber": "6339196",
+     "componentIds": [
+      "T-BGU-111466"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Geothermics I: Energy Budget of the Earth"
+    },
+    {
+     "eventNumber": "6339092",
+     "componentIds": [
+      "T-BGU-111467"
+     ],
+     "types": [
+      "Excursion"
+     ],
+     "title": "Geothermics I: Geothermics in the Rhine Graben - Field Exercise"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-105744",
+   "moduleName": "Geology",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6339080",
+     "componentIds": [
+      "T-BGU-111470"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Analysis of Geological Structures"
+    },
+    {
+     "eventNumber": "6339086",
+     "componentIds": [
+      "T-BGU-111470"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Depositional Systems of Regions"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-105745",
+   "moduleName": "Borehole Technology",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6339095",
+     "componentIds": [
+      "T-BGU-111471"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Borehole Technology: Logging"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-105773",
+   "moduleName": "Basin Analysis and Modeling",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6339072",
+     "componentIds": [
+      "T-BGU-111543"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Basin Analysis and Modelling"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-106114",
+   "moduleName": "Experimental Hydraulics and Measurement Techniques",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6222907",
+     "componentIds": [
+      "T-BGU-112374"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Experimental Hydraulics"
+    },
+    {
+     "eventNumber": "6221907",
+     "componentIds": [
+      "T-BGU-110411"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Flow Measurement Techniques"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-106898",
+   "moduleName": "Introduction to Computational Geodynamics: Part 1",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6339135",
+     "componentIds": [
+      "T-BGU-113836"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Introduction to Computational Geodynamics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-107016",
+   "moduleName": "Urban Ecology",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-BGU-107709",
+   "moduleName": "Environmental Geodesy - Radar Remote Sensing",
+   "ects": 7,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6025106",
+     "componentIds": [
+      "T-BGU-103501",
+      "T-BGU-101711"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Geodetic Application of SAR Interferometry, Lecture"
+    },
+    {
+     "eventNumber": "6025107",
+     "componentIds": [
+      "T-BGU-103501",
+      "T-BGU-101711"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Geodetic Application of SAR Interferometry, Exercises"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-107710",
+   "moduleName": "Environmental Geodesy - Geometric Earth Observation",
+   "ects": 9,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6025102",
+     "componentIds": [
+      "T-BGU-113808"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "GNSS Earth Observation"
+    },
+    {
+     "eventNumber": "6019404",
+     "componentIds": [
+      "T-BGU-109404"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Deformation Processes"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-107857",
+   "moduleName": "Finite Elements in Solid Mechanics",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-BGU-107860",
+   "moduleName": "Fracture and Damage Mechanics",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6215903",
+     "componentIds": [
+      "T-BGU-115277"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Fracture and Damage Mechanics"
+    },
+    {
+     "eventNumber": "6215904",
+     "componentIds": [
+      "T-BGU-115277"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises Fracture and Damage Mechanics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-107872",
+   "moduleName": "Computational Earth System Sciences – Overview and Selected Topics",
+   "ects": 1,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "6224909",
+     "componentIds": [
+      "T-BGU-115291"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Computational Earth System Sciences"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-BGU-107873",
+   "moduleName": "Research Oriented Study Project – Computational Earth System Sciences",
+   "ects": 2,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-CHEMBIO-108049",
+   "moduleName": "Elective Module \"Theoretical Physics\" in Computational Chemistry (8 CR)",
+   "ects": 8,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-CHEMBIO-108050",
+   "moduleName": "Elective Module \"Theoretical Physics\" in Computational Chemistry (6 LP)",
+   "ects": 6,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-CIWVT-103407",
+   "moduleName": "Water Technology",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2233030",
+     "componentIds": [
+      "T-CIWVT-106802"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Water Technology"
+    },
+    {
+     "eventNumber": "2233031",
+     "componentIds": [
+      "T-CIWVT-106802"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Water Technology"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-CIWVT-105206",
+   "moduleName": "Design of a Jet Engine Combustion Chamber",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2232310",
+     "componentIds": [
+      "T-CIWVT-110571"
+     ],
+     "types": [],
+     "title": "Design of a Jet Engine Combustion Chamber"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-CIWVT-105207",
+   "moduleName": "Energy from Biomass",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2231220",
+     "componentIds": [
+      "T-CIWVT-110576"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Energy from Biomass"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-CIWVT-106316",
+   "moduleName": "Nonlinear Process Control",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2243050",
+     "componentIds": [
+      "T-CIWVT-112824"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Nonlinear Process Control"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-CIWVT-106319",
+   "moduleName": "Data-Based Modeling and Control",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2243070",
+     "componentIds": [
+      "T-CIWVT-112827"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Data-Based Modeling and Control"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-CIWVT-106320",
+   "moduleName": "Estimator and Observer Design",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2243110",
+     "componentIds": [
+      "T-CIWVT-112828"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Estimator and Observer Design"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-CIWVT-106564",
+   "moduleName": "Single-Cell Technologies",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2213030",
+     "componentIds": [
+      "T-CIWVT-113231"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Single-Cell Technologies"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-CIWVT-106566",
+   "moduleName": "Chemical Hydrogen Storage",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2231420",
+     "componentIds": [
+      "T-CIWVT-113234"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Chemical Hydrogen Storage"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-CIWVT-106676",
+   "moduleName": "Introduction to Numerical Simulation of Reacting Flows",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2232130",
+     "componentIds": [
+      "T-CIWVT-113435",
+      "T-CIWVT-113436"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Introduction to Numerical Simulation of Reacting Flows"
+    },
+    {
+     "eventNumber": "2232131",
+     "componentIds": [
+      "T-CIWVT-113435",
+      "T-CIWVT-113436"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Introduction to Numerical Simulation of Reacting Flows -Exercises"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-CIWVT-106837",
+   "moduleName": "Bioprocess Scale-up",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2213040",
+     "componentIds": [
+      "T-CIWVT-113712"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Bioprocess Scale-Up"
+    },
+    {
+     "eventNumber": "2213041",
+     "componentIds": [
+      "T-CIWVT-113712"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to 2213040 Bioprocess Scale-Up"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-100386",
+   "moduleName": "Electromagnetics and Numerical Calculation of Fields",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2141110",
+     "componentIds": [
+      "T-ETIT-100640"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Electromagnetics and Numerical Calculation of Fields"
+    },
+    {
+     "eventNumber": "2141111",
+     "componentIds": [
+      "T-ETIT-100640"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercise for 2141110 Electromagnetics and Numerical Calculation of Fields"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-100427",
+   "moduleName": "Modern Radio Systems Engineering",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2308430",
+     "componentIds": [
+      "T-ETIT-100735"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Modern Radio Systems Engineering"
+    },
+    {
+     "eventNumber": "2308431",
+     "componentIds": [
+      "T-ETIT-100735"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial to 2308430 Modern Radio Systems Engineering"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-100449",
+   "moduleName": "Hardware Modeling and Simulation",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2311608",
+     "componentIds": [
+      "T-ETIT-100672"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Hardware Modeling and Simulation"
+    },
+    {
+     "eventNumber": "2311610",
+     "componentIds": [
+      "T-ETIT-100672"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial for 2311608 Hardware Modeling and Simulation"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-100468",
+   "moduleName": "Lab Course on Nanoelectronics",
+   "ects": 6,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "2312669",
+     "componentIds": [
+      "T-ETIT-100757"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Laboratory Nanoelectronics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-100478",
+   "moduleName": "Laboratory Nanotechnology",
+   "ects": 6,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "2313714",
+     "componentIds": [
+      "T-ETIT-100765"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Laboratory Nanotechnology"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-103270",
+   "moduleName": "Optical Networks and Systems",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2309470",
+     "componentIds": [
+      "T-ETIT-106506"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Optical Networks and Systems"
+    },
+    {
+     "eventNumber": "2309471",
+     "componentIds": [
+      "T-ETIT-106506"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial for 2309470 Optical Networks and Systems"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-105606",
+   "moduleName": "Quantum Detectors and Sensors",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2312706",
+     "componentIds": [
+      "T-ETIT-111234"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Quantum Detectors and Sensors"
+    },
+    {
+     "eventNumber": "2312707",
+     "componentIds": [
+      "T-ETIT-111234"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercise for 2312706 Quantum Detectors and Sensors"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 2312706 is shared by modules M-ETIT-105606, M-PHYS-106193.",
+    "Event 2312707 is shared by modules M-ETIT-105606, M-PHYS-106193."
+   ]
+  },
+  {
+   "moduleId": "M-ETIT-105617",
+   "moduleName": "Channel Coding: Graph-Based Codes",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2310520",
+     "componentIds": [
+      "T-ETIT-111245"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Channel Coding: Graph-Based Codes"
+    },
+    {
+     "eventNumber": "2310521",
+     "componentIds": [
+      "T-ETIT-111245"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercise for 2310520 Channel Coding: Graph-Based Codes"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-105971",
+   "moduleName": "Mobile Communications",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2310523",
+     "componentIds": [
+      "T-ETIT-112127"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Mobile Communications"
+    },
+    {
+     "eventNumber": "2310524",
+     "componentIds": [
+      "T-ETIT-112127"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises for 2310523 Mobile Communications"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-106815",
+   "moduleName": "Advanced Communications Engineering",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2310540",
+     "componentIds": [
+      "T-ETIT-113676"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Advanced Communications Engineering"
+    },
+    {
+     "eventNumber": "2310541",
+     "componentIds": [
+      "T-ETIT-113676"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises for 2310540 Advanced Communications Engineering"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-106899",
+   "moduleName": "Signal Processing Methods",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2302113",
+     "componentIds": [
+      "T-ETIT-113837"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Signal Processing Methods"
+    },
+    {
+     "eventNumber": "2302115",
+     "componentIds": [
+      "T-ETIT-113837"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial to 2302113 Signal Processing Methods"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-106955",
+   "moduleName": "Radio-Frequency Electronics",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2308503",
+     "componentIds": [
+      "T-ETIT-113910"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Radio-Frequency Electronics"
+    },
+    {
+     "eventNumber": "2308504",
+     "componentIds": [
+      "T-ETIT-113910"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercise for 2308503 Radio-Frequency Electronics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-106956",
+   "moduleName": "Antennas and Beamforming",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2308465",
+     "componentIds": [
+      "T-ETIT-113920"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Antennas and Beamforming"
+    },
+    {
+     "eventNumber": "2308466",
+     "componentIds": [
+      "T-ETIT-113920"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial for 2308465 Antennas and Beamforming"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-107136",
+   "moduleName": "Communications Engineering Lab",
+   "ects": 6,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "2310517",
+     "componentIds": [
+      "T-ETIT-114159"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Communications Engineering Lab"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-107294",
+   "moduleName": "Mechatronic Measurement Systems Lab",
+   "ects": 6,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "2302123",
+     "componentIds": [
+      "T-ETIT-114341"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Mechatronic Measurement Systems Lab"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-107333",
+   "moduleName": "Applied Information Theory",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2310537",
+     "componentIds": [
+      "T-ETIT-114412"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Applied Information Theory"
+    },
+    {
+     "eventNumber": "2310539",
+     "componentIds": [
+      "T-ETIT-114412"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises for 2310537 Applied Information Theory"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-ETIT-107344",
+   "moduleName": "Integrated Photonics",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2309440",
+     "componentIds": [
+      "T-ETIT-114418"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Integrated Photonics"
+    },
+    {
+     "eventNumber": "2309441",
+     "componentIds": [
+      "T-ETIT-114418"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial to Integrated Photonics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-100749",
+   "moduleName": "Introduction to Bioinformatics for Computer Scientists",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400055",
+     "componentIds": [
+      "T-INFO-101286"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Introduction to Bioinformatics for Computer Scientists"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-102305",
+   "moduleName": "Seminar: From Big Data to Data Science: Advanced Methods of Information Fusion",
+   "ects": 3,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "2424344",
+     "componentIds": [
+      "T-INFO-101270"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Advanced Methods of Information Fusion"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-102373",
+   "moduleName": "Seminar Computer Vision for Human-Computer Interaction",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2424358",
+     "componentIds": [
+      "T-INFO-104741"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar Computer Vision for Human-Computer Interaction"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-105329",
+   "moduleName": "Optimization Methods for Machine Learning and Engineering",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400280",
+     "componentIds": [
+      "T-INFO-110809"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Optimization Methods for Machine Learning and Engineering"
+    },
+    {
+     "eventNumber": "2400281",
+     "componentIds": [
+      "T-INFO-110809"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Optimization Methods for Machine Learning and Engineering"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-105623",
+   "moduleName": "Reinforcement Learning",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400163",
+     "componentIds": [
+      "T-INFO-111255"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Reinforcement Learning"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-105792",
+   "moduleName": "Humanoid Robotics Laboratory",
+   "ects": 6,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "2424890",
+     "componentIds": [
+      "T-INFO-111590"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Humanoid Robotics Laboratory"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-105884",
+   "moduleName": "Seminar: Digital Accessibility and Assistive Technologies",
+   "ects": 3,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "2400129",
+     "componentIds": [
+      "T-INFO-111832"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar Digital Accessibility and Assisitive Technologies"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106190",
+   "moduleName": "Computational Imaging",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400173",
+     "componentIds": [
+      "T-INFO-112573"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Computational Imaging"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106237",
+   "moduleName": "Geometric Deep Learning",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400179",
+     "componentIds": [
+      "T-INFO-112662"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Geometric Deep Learning"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106261",
+   "moduleName": "Practical Course: Automotive Software Engineering",
+   "ects": 6,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-INFO-106490",
+   "moduleName": "Seminar: Artificial Intelligence for Energy Systems",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400175",
+     "componentIds": [
+      "T-INFO-113110"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar: Artificial Intelligence for Energy Systems"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106495",
+   "moduleName": "Research Practical Course: Explainable Artificial Intelligence",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400142",
+     "componentIds": [
+      "T-INFO-113114"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Forschungspraktikum: Explainable Artificial Intelligence"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106504",
+   "moduleName": "Simulation and Optimization in Robotics and Biomechanics",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400160",
+     "componentIds": [
+      "T-INFO-113123"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Simulation and Optimization in Robotics and Biomechanics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106594",
+   "moduleName": "Seminar: Research Trends in Human-Computer Interaction",
+   "ects": 3,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-INFO-106608",
+   "moduleName": "Autonomous Learning for Intelligent Robot Perception",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400213",
+     "componentIds": [
+      "T-INFO-113327"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Autonomous Learning for Intelligent Robot Perception"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106626",
+   "moduleName": "Engineering Self-Adaptive Systems",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400186",
+     "componentIds": [
+      "T-INFO-113349"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Engineering Self-Adaptive Systems"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106646",
+   "moduleName": "Practical Course: Human-Centred Robotics",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400193",
+     "componentIds": [
+      "T-INFO-113393"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Practical Course: Human-Centred Robotics Projects"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106810",
+   "moduleName": "Artificial Intelligence & IT-Security",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "24000",
+     "componentIds": [
+      "T-INFO-113668"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Artificial Intelligence & IT-Security"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106812",
+   "moduleName": "Advanced Bayesian Data Analysis",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400120",
+     "componentIds": [
+      "T-INFO-113673"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Advanced Bayesian Data Analysis"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106864",
+   "moduleName": "Energy Informatics",
+   "ects": 10,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "2400058",
+     "componentIds": [
+      "T-INFO-103582"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Energy Informatics 1"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106868",
+   "moduleName": "Seminar: Hot Topics in Artificial Intelligence & Security 1",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "24004",
+     "componentIds": [
+      "T-INFO-113761"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar: Hot Topics in Security of Machine Learning"
+    },
+    {
+     "eventNumber": "24005",
+     "componentIds": [
+      "T-INFO-113761"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar: Hot Topics in Cyber-Physical Systems Security"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106871",
+   "moduleName": "Research Project: Machine Learning for Autonomous Agents and Decision Making",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400240",
+     "componentIds": [
+      "T-INFO-113765"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Machine Learning for Autonomous Agents and Decision Making"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106927",
+   "moduleName": "Seminar: Exoskeletons & Motion Capture",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400187",
+     "componentIds": [
+      "T-INFO-113892"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar: Exoskeletons & Motion Capture"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-106996",
+   "moduleName": "Practical Course: Application Security",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400114",
+     "componentIds": [
+      "T-INFO-113958"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Application Security Lab"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107174",
+   "moduleName": "Research Project Deep Learning for Robotics",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400091",
+     "componentIds": [
+      "T-INFO-114203"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Deep Learning for Robotics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107175",
+   "moduleName": "Seminar: Deep Learning for Robotics",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400099",
+     "componentIds": [
+      "T-INFO-114204"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Deep Learning for Robotics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107178",
+   "moduleName": "Natural Language Processing",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400147",
+     "componentIds": [
+      "T-INFO-114207"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Natural Language Processing"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107199",
+   "moduleName": "Parallel Algorithms",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400053",
+     "componentIds": [
+      "T-INFO-114221"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Parallel Algorithms"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107209",
+   "moduleName": "Seminar: Advanced Topics on SAT Solving",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-INFO-107215",
+   "moduleName": "Distributed Computing",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400050",
+     "componentIds": [
+      "T-INFO-114235"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Distributed Computing"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107233",
+   "moduleName": "Natural Language Processing and Software Engineering",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2424187",
+     "componentIds": [
+      "T-INFO-114257"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Natural Language Processing and Software Engineering"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107234",
+   "moduleName": "Edge-AI in Software and Sensor Applications",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400124",
+     "componentIds": [
+      "T-INFO-114258"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "EdgeAI in Software and Sensor Applications"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107436",
+   "moduleName": "Seminar: Failing Forward: Robotics, Critical Reading and the Making of Good Research",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400194",
+     "componentIds": [
+      "T-INFO-114604"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Failing Forward: Robotics, Critical Reading and the Making of Good Research - Seminar"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107598",
+   "moduleName": "Robotics Institute Germany - Lecture Series",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400246",
+     "componentIds": [
+      "T-INFO-114895"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "RIG Lecture Series"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107609",
+   "moduleName": "Practical Course: Mathematical and Computational Methods in Robotics and AI",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400181",
+     "componentIds": [
+      "T-INFO-114911"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Practical Course: Mathematical and Computational Methods in Robotics & AI"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107677",
+   "moduleName": "Practical Course: Continuous Software Engineering",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400105",
+     "componentIds": [
+      "T-INFO-115043"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Practical Course: Continuous Software Engineering"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107678",
+   "moduleName": "Practical Course: Engineering Approaches to Software Development",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400093",
+     "componentIds": [
+      "T-INFO-115044"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Practical Course: Engineering Approaches to Software Development"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107686",
+   "moduleName": "Seminar: Information Systems",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-INFO-107816",
+   "moduleName": "Seminar: Neural Networks and Artificial Intelligence",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-INFO-107843",
+   "moduleName": "Deep Learning for Computer Vision: Advanced Topics",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400258",
+     "componentIds": [
+      "T-INFO-115257"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Deep Learning for Computer Vision: Advanced Topics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107845",
+   "moduleName": "Practical Course: Machine Learning and Intelligent Systems",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2424281",
+     "componentIds": [
+      "T-INFO-115259"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Practical Course Machine Learning and Intelligent Systems"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-INFO-107846",
+   "moduleName": "Seminar for Practical Course: Machine Learning and Intelligent Systems",
+   "ects": 3,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2400067",
+     "componentIds": [
+      "T-INFO-115260"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar for Practical Course: Machine Learning and Intelligent Systems"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-MACH-107094",
+   "moduleName": "Computational Elasticity",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2161250",
+     "componentIds": [
+      "T-MACH-113989"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Computational Elasticity"
+    },
+    {
+     "eventNumber": "2161147",
+     "componentIds": [
+      "T-MACH-114529"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial Computational Elasticity"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-MACH-107437",
+   "moduleName": "Computational Mechanics of Materials",
+   "ects": 6,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2161254",
+     "componentIds": [
+      "T-MACH-113939"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Computational Mechanics of Materials"
+    },
+    {
+     "eventNumber": "2161255",
+     "componentIds": [
+      "T-MACH-113940"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial Computational Mechanics of Materials"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-MATH-101320",
+   "moduleName": "Functional Analysis",
+   "ects": 8,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "0104800",
+     "componentIds": [
+      "T-MATH-102255"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Functional Analysis"
+    },
+    {
+     "eventNumber": "0104810",
+     "componentIds": [
+      "T-MATH-102255"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial for 0104800 (Functional Analysis)"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-MATH-102730",
+   "moduleName": "Seminar",
+   "ects": 3,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-MATH-102870",
+   "moduleName": "Classical Methods for Partial Differential Equations",
+   "ects": 8,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "0105300",
+     "componentIds": [
+      "T-MATH-105832"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Classical Methods for Partial Differential Equations"
+    },
+    {
+     "eventNumber": "0105310",
+     "componentIds": [
+      "T-MATH-105832"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial for 0105300 (Classical Methods for Partial Differential Equations)"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-MATH-102890",
+   "moduleName": "Inverse Problems",
+   "ects": 8,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "0105100",
+     "componentIds": [
+      "T-MATH-105835"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Inverse Problems"
+    },
+    {
+     "eventNumber": "0105110",
+     "componentIds": [
+      "T-MATH-105835"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial for 0105100 (Inverse Problems)"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-MATH-102891",
+   "moduleName": "Finite Element Methods",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "0110300",
+     "componentIds": [
+      "T-MATH-105857"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Finite Element Methods"
+    },
+    {
+     "eventNumber": "0110310",
+     "componentIds": [
+      "T-MATH-105857"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Tutorial for 0110300 (Finite Element Methods)"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-MATH-102919",
+   "moduleName": "Discrete Time Finance",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "0108400",
+     "componentIds": [
+      "T-MATH-105839"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Finanzmathematik in diskreter Zeit"
+    },
+    {
+     "eventNumber": "0108500",
+     "componentIds": [
+      "T-MATH-105839"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Übungen zu 0108400 (Finanzmathematik in diskreter Zeit)"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-MATH-106053",
+   "moduleName": "Stochastic Simulation",
+   "ects": 5,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "0100027",
+     "componentIds": [
+      "T-MATH-112242"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Stochastic Simulation"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-MATH-107479",
+   "moduleName": "Hackathon",
+   "ects": 2,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-MATH-107752",
+   "moduleName": "Key Competences",
+   "ects": 4,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [],
+   "match": "unmatched",
+   "confidence": null,
+   "review": [
+    "No WT 26/27 course is listed in the handbook for this module."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-101395",
+   "moduleName": "Advanced Physics Laboratory Course",
+   "ects": 6,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "4011333",
+     "componentIds": [
+      "T-PHYS-102479"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Advanced lab course for Master students"
+    },
+    {
+     "eventNumber": "4011349",
+     "componentIds": [
+      "T-PHYS-102479"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Preliminary meeting for the Advanced lab course for Master students"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-102075",
+   "moduleName": "Astroparticle Physics I",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4022011",
+     "componentIds": [
+      "T-PHYS-102432"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Astroparticle Physics I: Dark Matter"
+    },
+    {
+     "eventNumber": "4022012",
+     "componentIds": [
+      "T-PHYS-102432"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Astroparticle Physics I: Dark Matter"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-102089",
+   "moduleName": "Electronic Properties of Solids I, with Exercises",
+   "ects": 10,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4021011",
+     "componentIds": [
+      "T-PHYS-102577"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Electronic Properties of Solids I"
+    },
+    {
+     "eventNumber": "4021012",
+     "componentIds": [
+      "T-PHYS-102577"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Electronic Properties of Solids I"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-102097",
+   "moduleName": "Basics of Nanotechnology I",
+   "ects": 4,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4021041",
+     "componentIds": [
+      "T-PHYS-102529"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Basics of Nanotechnology I"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-102114",
+   "moduleName": "Particle Physics I",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4022031",
+     "componentIds": [
+      "T-PHYS-102369"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Particle Physics I"
+    },
+    {
+     "eventNumber": "4022032",
+     "componentIds": [
+      "T-PHYS-102369"
+     ],
+     "types": [],
+     "title": "Exercises to Particle Physics I"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-102121",
+   "moduleName": "Detectors for Particle and Astroparticle Physics, with ext. Exercises",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4022071",
+     "componentIds": [
+      "T-PHYS-102378"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Detectors for Particle and Astroparticle Physics"
+    },
+    {
+     "eventNumber": "4022072",
+     "componentIds": [
+      "T-PHYS-102378"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Detectors for Particle and Astroparticle Physics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-102146",
+   "moduleName": "Nano-Optics",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4020021",
+     "componentIds": [
+      "T-PHYS-102282"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Nano-Optics"
+    },
+    {
+     "eventNumber": "4020022",
+     "componentIds": [
+      "T-PHYS-102282"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Nano-Optics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-102184",
+   "moduleName": "Electronics for Physicists",
+   "ects": 10,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4022061",
+     "componentIds": [
+      "T-PHYS-104479"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Electronics for Physicists"
+    },
+    {
+     "eventNumber": "4022062",
+     "componentIds": [
+      "T-PHYS-104479"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Practical Exercises to Electronics for Physicists"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-102203",
+   "moduleName": "Advanced Seminar in the Area Condensed Matter",
+   "ects": 4,
+   "languageRaw": "German/English",
+   "languageStatus": "confirmed-event-excerpt",
+   "events": [
+    {
+     "eventNumber": "4013814",
+     "componentIds": [
+      "T-PHYS-106129"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Modern Accelerators and Research with Photons"
+    },
+    {
+     "eventNumber": "4013134",
+     "componentIds": [
+      "T-PHYS-113684"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Quantum Science at the Atomic Scale: Advanced Scanning Probe Techniques"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 4013814 is shared by modules M-PHYS-102203, M-PHYS-102205, M-PHYS-102206, M-PHYS-102207.",
+    "Event 4013134 is shared by modules M-PHYS-102203, M-PHYS-102204."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102204",
+   "moduleName": "Advanced Seminar in the Area Nanophysics",
+   "ects": 4,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "4013134",
+     "componentIds": [
+      "T-PHYS-113684"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Quantum Science at the Atomic Scale: Advanced Scanning Probe Techniques"
+    },
+    {
+     "eventNumber": "4013314",
+     "componentIds": [
+      "T-PHYS-111865"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Virtual Materials Design"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 4013134 is shared by modules M-PHYS-102203, M-PHYS-102204.",
+    "Event 4013314 is shared by modules M-PHYS-102204, M-PHYS-102209."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102205",
+   "moduleName": "Advanced Seminar in the Area Optics and Photonics",
+   "ects": 4,
+   "languageRaw": "German/English",
+   "languageStatus": "confirmed-event-excerpt",
+   "events": [
+    {
+     "eventNumber": "4013814",
+     "componentIds": [
+      "T-PHYS-106129"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Modern Accelerators and Research with Photons"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 4013814 is shared by modules M-PHYS-102203, M-PHYS-102205, M-PHYS-102206, M-PHYS-102207."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102206",
+   "moduleName": "Advanced Seminar in the Area Experimental Particle Physics",
+   "ects": 4,
+   "languageRaw": "German/English",
+   "languageStatus": "confirmed-event-excerpt",
+   "events": [
+    {
+     "eventNumber": "4013734",
+     "componentIds": [
+      "T-PHYS-106525"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Experimental and Theoretical Methods in Particle Physics"
+    },
+    {
+     "eventNumber": "4013814",
+     "componentIds": [
+      "T-PHYS-106129"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Modern Accelerators and Research with Photons"
+    },
+    {
+     "eventNumber": "4013214",
+     "componentIds": [
+      "T-PHYS-111863"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Particle Physics beyond the Standard Model"
+    },
+    {
+     "eventNumber": "4013244",
+     "componentIds": [
+      "T-PHYS-114687"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Plasma Physics II"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 4013734 is shared by modules M-PHYS-102206, M-PHYS-102208.",
+    "Event 4013814 is shared by modules M-PHYS-102203, M-PHYS-102205, M-PHYS-102206, M-PHYS-102207."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102207",
+   "moduleName": "Advanced Seminar in the Area Experimental Astroparticle Physics",
+   "ects": 4,
+   "languageRaw": "German/English",
+   "languageStatus": "confirmed-event-excerpt",
+   "events": [
+    {
+     "eventNumber": "4013224",
+     "componentIds": [
+      "T-PHYS-110293"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Astroparticle Physics"
+    },
+    {
+     "eventNumber": "4013814",
+     "componentIds": [
+      "T-PHYS-106129"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Modern Accelerators and Research with Photons"
+    },
+    {
+     "eventNumber": "4013624",
+     "componentIds": [
+      "T-PHYS-115319"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: The Hidden Universe"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 4013814 is shared by modules M-PHYS-102203, M-PHYS-102205, M-PHYS-102206, M-PHYS-102207.",
+    "Event 4013624 is shared by modules M-PHYS-102207, M-PHYS-102208, M-PHYS-106829."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102208",
+   "moduleName": "Advanced Seminar in the Area Theoretical Particle Physics",
+   "ects": 4,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "4013434",
+     "componentIds": [
+      "T-PHYS-113446"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Advanced Quantum Mechanics: Fundamentals and Technology"
+    },
+    {
+     "eventNumber": "4013734",
+     "componentIds": [
+      "T-PHYS-106525"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Experimental and Theoretical Methods in Particle Physics"
+    },
+    {
+     "eventNumber": "4013624",
+     "componentIds": [
+      "T-PHYS-115319"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: The Hidden Universe"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 4013434 is shared by modules M-PHYS-102208, M-PHYS-102209.",
+    "Event 4013734 is shared by modules M-PHYS-102206, M-PHYS-102208.",
+    "Event 4013624 is shared by modules M-PHYS-102207, M-PHYS-102208, M-PHYS-106829."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102209",
+   "moduleName": "Advanced Seminar in the Area Condensed Matter Theory",
+   "ects": 4,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "4013434",
+     "componentIds": [
+      "T-PHYS-113446"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Advanced Quantum Mechanics: Fundamentals and Technology"
+    },
+    {
+     "eventNumber": "4013414",
+     "componentIds": [
+      "T-PHYS-113685"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Topology in Quantum Condensed Matter Physics"
+    },
+    {
+     "eventNumber": "4013314",
+     "componentIds": [
+      "T-PHYS-111865"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: Virtual Materials Design"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 4013434 is shared by modules M-PHYS-102208, M-PHYS-102209.",
+    "Event 4013314 is shared by modules M-PHYS-102204, M-PHYS-102209."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-102408",
+   "moduleName": "Solid-State Optics",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4020011",
+     "componentIds": [
+      "T-PHYS-104773"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Solid-State-Optics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-102989",
+   "moduleName": "Electron Microscopy I, with Exercises",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4027011",
+     "componentIds": [
+      "T-PHYS-105965"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Electron Microscopy I"
+    },
+    {
+     "eventNumber": "4027012",
+     "componentIds": [
+      "T-PHYS-105965"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Electron Microscopy I"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-104869",
+   "moduleName": "Accelerator Physics, with ext. Exercises",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4028011",
+     "componentIds": [
+      "T-PHYS-109904"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Accelerator Physics"
+    },
+    {
+     "eventNumber": "4028012",
+     "componentIds": [
+      "T-PHYS-109904"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Practical Exercises at KARA for Accelerator Physics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-105225",
+   "moduleName": "Seismology",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4060171",
+     "componentIds": [
+      "T-PHYS-110603"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Seismology"
+    },
+    {
+     "eventNumber": "4060172",
+     "componentIds": [
+      "T-PHYS-110603"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises on Seismology"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-105715",
+   "moduleName": "Components of the Climate System",
+   "ects": 12,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4052194",
+     "componentIds": [
+      "T-PHYS-111410"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Seminar on IPCC Assessment Report"
+    },
+    {
+     "eventNumber": "4052111",
+     "componentIds": [
+      "T-PHYS-111411"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Tropical Meteorology"
+    },
+    {
+     "eventNumber": "4052112",
+     "componentIds": [
+      "T-PHYS-111411"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Tropical Meteorology"
+    },
+    {
+     "eventNumber": "4052151",
+     "componentIds": [
+      "T-PHYS-111412"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Climate Modeling & Dynamics with ICON"
+    },
+    {
+     "eventNumber": "4052152",
+     "componentIds": [
+      "T-PHYS-111412"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Climate Modeling & Dynamics with ICON"
+    },
+    {
+     "eventNumber": "4052061",
+     "componentIds": [
+      "T-PHYS-111413"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Middle Atmosphere in the Climate System"
+    },
+    {
+     "eventNumber": "4052121",
+     "componentIds": [
+      "T-PHYS-111414"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Ocean-Atmosphere Interactions"
+    },
+    {
+     "eventNumber": "4052101",
+     "componentIds": [
+      "T-PHYS-111273"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Arctic Climate System"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-105716",
+   "moduleName": "Atmospheric Processes",
+   "ects": 12,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4052081",
+     "componentIds": [
+      "T-PHYS-111416"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Cloud Physics"
+    },
+    {
+     "eventNumber": "4052082",
+     "componentIds": [
+      "T-PHYS-111416"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Cloud Physics"
+    },
+    {
+     "eventNumber": "4052131",
+     "componentIds": [
+      "T-PHYS-111417"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Energetics"
+    },
+    {
+     "eventNumber": "4052071",
+     "componentIds": [
+      "T-PHYS-111419"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Atmospheric Radiation"
+    },
+    {
+     "eventNumber": "4052171",
+     "componentIds": [
+      "T-PHYS-115476"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Primary Aerosol Cycles and Impacts"
+    },
+    {
+     "eventNumber": "4052172",
+     "componentIds": [
+      "T-PHYS-115476"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Primary Aerosol Cycles and their Impacts"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-106193",
+   "moduleName": "Quantum Detectors and Sensors",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2312706",
+     "componentIds": [
+      "T-PHYS-112582"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Quantum Detectors and Sensors"
+    },
+    {
+     "eventNumber": "2312707",
+     "componentIds": [
+      "T-PHYS-112582"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercise for 2312706 Quantum Detectors and Sensors"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 2312706 is shared by modules M-ETIT-105606, M-PHYS-106193.",
+    "Event 2312707 is shared by modules M-ETIT-105606, M-PHYS-106193."
+   ]
+  },
+  {
+   "moduleId": "M-PHYS-106326",
+   "moduleName": "Seismics",
+   "ects": 8,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "4060111",
+     "componentIds": [
+      "T-PHYS-112843"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Seismics"
+    },
+    {
+     "eventNumber": "4060112",
+     "componentIds": [
+      "T-PHYS-112843"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises on Seismics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-PHYS-106829",
+   "moduleName": "Advanced Seminar in the Area Theoretical Cosmology and Astroparticle Physics",
+   "ects": 4,
+   "languageRaw": "German/English",
+   "languageStatus": "unverified",
+   "events": [
+    {
+     "eventNumber": "4013624",
+     "componentIds": [
+      "T-PHYS-115319"
+     ],
+     "types": [
+      "Advanced seminar"
+     ],
+     "title": "Advanced Seminar: The Hidden Universe"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 4013624 is shared by modules M-PHYS-102207, M-PHYS-102208, M-PHYS-106829."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-101473",
+   "moduleName": "Mathematical Programming",
+   "ects": 9,
+   "languageRaw": "German/English",
+   "languageStatus": "confirmed-event-excerpt",
+   "events": [
+    {
+     "eventNumber": "2550155",
+     "componentIds": [
+      "T-WIWI-115501"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Multiobjective Optimization"
+    },
+    {
+     "eventNumber": "2550156",
+     "componentIds": [
+      "T-WIWI-115501"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Multiobjective Optimization"
+    },
+    {
+     "eventNumber": "2550111",
+     "componentIds": [
+      "T-WIWI-102724",
+      "T-WIWI-103637"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Nonlinear Optimization I"
+    },
+    {
+     "eventNumber": "2550112",
+     "componentIds": [
+      "T-WIWI-102724",
+      "T-WIWI-103637",
+      "T-WIWI-102725"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises Nonlinear Optimization I"
+    },
+    {
+     "eventNumber": "2550113",
+     "componentIds": [
+      "T-WIWI-103637",
+      "T-WIWI-102725"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Nonlinear Optimization II"
+    },
+    {
+     "eventNumber": "2550114",
+     "componentIds": [
+      "T-WIWI-102725"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercise to Nonlinear Optimization II"
+    },
+    {
+     "eventNumber": "2550480",
+     "componentIds": [
+      "T-WIWI-102715"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Operations Research in Supply Chain Management"
+    },
+    {
+     "eventNumber": "2550481",
+     "componentIds": [
+      "T-WIWI-102715"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises for OR in Supply Chain Management"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 2550155 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550156 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550480 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550481 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-101500",
+   "moduleName": "Microeconomic Theory",
+   "ects": 9,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2500037",
+     "componentIds": [
+      "T-WIWI-102861"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Advanced Game Theory"
+    },
+    {
+     "eventNumber": "2500038",
+     "componentIds": [
+      "T-WIWI-102861"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercise for Advanced Game Theory"
+    },
+    {
+     "eventNumber": "2520408",
+     "componentIds": [
+      "T-WIWI-102613"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Auction Theory"
+    },
+    {
+     "eventNumber": "2520409",
+     "componentIds": [
+      "T-WIWI-102613"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Auction Theory Exercise"
+    },
+    {
+     "eventNumber": "2500042",
+     "componentIds": [
+      "T-WIWI-113264"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Matching Theory"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-WIWI-101506",
+   "moduleName": "Service Analytics",
+   "ects": 9,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2595650",
+     "componentIds": [
+      "T-WIWI-108715"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Artificial Intelligence in Service Systems"
+    },
+    {
+     "eventNumber": "2595651",
+     "componentIds": [
+      "T-WIWI-108715"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Übung zu Artificial Intelligence in Service Systems"
+    },
+    {
+     "eventNumber": "2540422",
+     "componentIds": [
+      "T-WIWI-105777"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Business Intelligence Systems"
+    },
+    {
+     "eventNumber": "2595477",
+     "componentIds": [
+      "T-WIWI-112152"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminarpraktikum: Service Innovation"
+    },
+    {
+     "eventNumber": "2500078",
+     "componentIds": [
+      "T-WIWI-115325"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Practical Seminar: Human-AI Collaboration"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 2595650 is shared by modules M-WIWI-101506, M-WIWI-103117.",
+    "Event 2595651 is shared by modules M-WIWI-101506, M-WIWI-103117.",
+    "Event 2540422 is shared by modules M-WIWI-101506, M-WIWI-103117."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-101647",
+   "moduleName": "Data Science: Evidence-based Marketing",
+   "ects": 9,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2572170",
+     "componentIds": [
+      "T-WIWI-103139"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Marketing Analytics"
+    },
+    {
+     "eventNumber": "2572171",
+     "componentIds": [
+      "T-WIWI-103139"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercise for Marketing Analytics"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-WIWI-102832",
+   "moduleName": "Operations Research in Supply Chain Management",
+   "ects": 9,
+   "languageRaw": "German/English",
+   "languageStatus": "confirmed-event-excerpt",
+   "events": [
+    {
+     "eventNumber": "2550490",
+     "componentIds": [
+      "T-WIWI-106200"
+     ],
+     "types": [
+      "Practical course"
+     ],
+     "title": "Modeling and OR Software: Advanced Topics"
+    },
+    {
+     "eventNumber": "2550480",
+     "componentIds": [
+      "T-WIWI-102715"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Operations Research in Supply Chain Management"
+    },
+    {
+     "eventNumber": "2550481",
+     "componentIds": [
+      "T-WIWI-102715"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises for OR in Supply Chain Management"
+    },
+    {
+     "eventNumber": "2117054",
+     "componentIds": [
+      "T-MACH-112213"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Applied material flow simulation"
+    },
+    {
+     "eventNumber": "2550155",
+     "componentIds": [
+      "T-WIWI-115501"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Multiobjective Optimization"
+    },
+    {
+     "eventNumber": "2550156",
+     "componentIds": [
+      "T-WIWI-115501"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Multiobjective Optimization"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 2550480 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550481 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550155 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550156 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-103117",
+   "moduleName": "Data Science: Data-Driven Information Systems",
+   "ects": 9,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2595650",
+     "componentIds": [
+      "T-WIWI-108715"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Artificial Intelligence in Service Systems"
+    },
+    {
+     "eventNumber": "2595651",
+     "componentIds": [
+      "T-WIWI-108715"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Übung zu Artificial Intelligence in Service Systems"
+    },
+    {
+     "eventNumber": "2540422",
+     "componentIds": [
+      "T-WIWI-105777"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Business Intelligence Systems"
+    },
+    {
+     "eventNumber": "2540473",
+     "componentIds": [
+      "T-WIWI-114089"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar Applied Responsible AI"
+    },
+    {
+     "eventNumber": "00053",
+     "componentIds": [
+      "T-WIWI-113160"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercise for Digital Democracy"
+    },
+    {
+     "eventNumber": "2500045",
+     "componentIds": [
+      "T-WIWI-113160"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Digital Democracy - Challenges and Opportunities of the Digital Society"
+    },
+    {
+     "eventNumber": "2600052",
+     "componentIds": [
+      "T-WIWI-113160"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Digital Democracy"
+    },
+    {
+     "eventNumber": "2540554",
+     "componentIds": [
+      "T-WIWI-113459"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Practical Seminar: Human-Centered Systems"
+    },
+    {
+     "eventNumber": "2545164",
+     "componentIds": [
+      "T-WIWI-111385"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Responsible Artificial Intelligence"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 2595650 is shared by modules M-WIWI-101506, M-WIWI-103117.",
+    "Event 2595651 is shared by modules M-WIWI-101506, M-WIWI-103117.",
+    "Event 2540422 is shared by modules M-WIWI-101506, M-WIWI-103117.",
+    "Event 2540473 is shared by modules M-WIWI-103117, M-WIWI-107362.",
+    "Event 2500045 is shared by modules M-WIWI-103117, M-WIWI-107362."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-103289",
+   "moduleName": "Stochastic Optimization",
+   "ects": 9,
+   "languageRaw": "German/English",
+   "languageStatus": "confirmed-event-excerpt",
+   "events": [
+    {
+     "eventNumber": "2550155",
+     "componentIds": [
+      "T-WIWI-115501"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Multiobjective Optimization"
+    },
+    {
+     "eventNumber": "2550156",
+     "componentIds": [
+      "T-WIWI-115501"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises to Multiobjective Optimization"
+    },
+    {
+     "eventNumber": "2550480",
+     "componentIds": [
+      "T-WIWI-102715"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Operations Research in Supply Chain Management"
+    },
+    {
+     "eventNumber": "2550481",
+     "componentIds": [
+      "T-WIWI-102715"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercises for OR in Supply Chain Management"
+    },
+    {
+     "eventNumber": "2550464",
+     "componentIds": [
+      "T-WIWI-106545"
+     ],
+     "types": [
+      "Lecture"
+     ],
+     "title": "Optimization Under Uncertainty"
+    },
+    {
+     "eventNumber": "2550465",
+     "componentIds": [
+      "T-WIWI-106545"
+     ],
+     "types": [
+      "Practice"
+     ],
+     "title": "Exercise for Optimization Under Uncertainty"
+    },
+    {
+     "eventNumber": "2550466",
+     "componentIds": [
+      "T-WIWI-106545"
+     ],
+     "types": [
+      "Others"
+     ],
+     "title": "Computer Exercises for Optimization Under Uncertainty"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 2550155 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550156 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550480 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289.",
+    "Event 2550481 is shared by modules M-WIWI-101473, M-WIWI-102832, M-WIWI-103289."
+   ]
+  },
+  {
+   "moduleId": "M-WIWI-105714",
+   "moduleName": "Consumer Research",
+   "ects": 9,
+   "languageRaw": "English",
+   "languageStatus": "confirmed-handbook",
+   "events": [
+    {
+     "eventNumber": "2500040",
+     "componentIds": [
+      "T-WIWI-113095"
+     ],
+     "types": [
+      "Colloquium"
+     ],
+     "title": "Behavioral Lab Exercise"
+    },
+    {
+     "eventNumber": "2540441",
+     "componentIds": [
+      "T-WIWI-111100"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Current Directions in Consumer Psychology"
+    },
+    {
+     "eventNumber": "2500059",
+     "componentIds": [
+      "T-WIWI-114174"
+     ],
+     "types": [
+      "Lecture",
+      "Practice"
+     ],
+     "title": "Economic Decision Making"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": []
+  },
+  {
+   "moduleId": "M-WIWI-107362",
+   "moduleName": "Seminar / Research Oriented Study Project",
+   "ects": 3,
+   "languageRaw": "German/English",
+   "languageStatus": "confirmed-event-excerpt",
+   "events": [
+    {
+     "eventNumber": "2500045",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Digital Democracy - Challenges and Opportunities of the Digital Society"
+    },
+    {
+     "eventNumber": "2500077",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar: Human-AI Collaboration"
+    },
+    {
+     "eventNumber": "2500125",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Human-Centered Systems Seminar: Engineering"
+    },
+    {
+     "eventNumber": "2530293",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": ""
+    },
+    {
+     "eventNumber": "2530586",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Finance to the Point"
+    },
+    {
+     "eventNumber": "2540472",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Master Seminar: Intelligent & Responsible Information Systems"
+    },
+    {
+     "eventNumber": "2540473",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar Applied Responsible AI"
+    },
+    {
+     "eventNumber": "2540475",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Positive Information Systems"
+    },
+    {
+     "eventNumber": "2540478",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Smart Grids and Energy Markets"
+    },
+    {
+     "eventNumber": "2540557",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Human-Centered Systems Seminar: Research"
+    },
+    {
+     "eventNumber": "2545105",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Case studies seminar: Innovation management"
+    },
+    {
+     "eventNumber": "2571181",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar Digital Marketing (Master)"
+    },
+    {
+     "eventNumber": "2573012",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar Human Resource Management (Master)"
+    },
+    {
+     "eventNumber": "2573013",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar Human Resources and Organizations (Master)"
+    },
+    {
+     "eventNumber": "2581030",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Energy Economics"
+    },
+    {
+     "eventNumber": "2581032",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar Energy Economics VI"
+    },
+    {
+     "eventNumber": "2581033",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Energy Economics VII"
+    },
+    {
+     "eventNumber": "2581976",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Production and Operations Management"
+    },
+    {
+     "eventNumber": "2581977",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Production and Operations Management"
+    },
+    {
+     "eventNumber": "2581978",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Production and Operations Management"
+    },
+    {
+     "eventNumber": "2581979",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Energy Economics"
+    },
+    {
+     "eventNumber": "2581980",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Energy Economics"
+    },
+    {
+     "eventNumber": "2581981",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Energy Economics"
+    },
+    {
+     "eventNumber": "2581990",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Production and Operations Management"
+    },
+    {
+     "eventNumber": "2581991",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Production and Operations Management"
+    },
+    {
+     "eventNumber": "2581997",
+     "componentIds": [
+      "T-WIWI-103474"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Production and Operations Management"
+    },
+    {
+     "eventNumber": "2500024",
+     "componentIds": [
+      "T-WIWI-103478"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Economic Theory IV (Master)"
+    },
+    {
+     "eventNumber": "2520563",
+     "componentIds": [
+      "T-WIWI-103478"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Economic Theory III (Master)"
+    },
+    {
+     "eventNumber": "2521310",
+     "componentIds": [
+      "T-WIWI-103478",
+      "T-WIWI-103483"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Topics in Econometrics"
+    },
+    {
+     "eventNumber": "2560130",
+     "componentIds": [
+      "T-WIWI-103478"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar Public Finance"
+    },
+    {
+     "eventNumber": "2560142",
+     "componentIds": [
+      "T-WIWI-103478"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar Co-opetition: A Practical Perspective on Game Theory in the Digital Economy (Master)"
+    },
+    {
+     "eventNumber": "2560143",
+     "componentIds": [
+      "T-WIWI-103478"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Behavioral Biases in Decision Making (Master)"
+    },
+    {
+     "eventNumber": "2560282",
+     "componentIds": [
+      "T-WIWI-103478"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar in Economic Policy"
+    },
+    {
+     "eventNumber": "2561208",
+     "componentIds": [
+      "T-WIWI-103478"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Selected aspects of European transport planning and -modelling"
+    },
+    {
+     "eventNumber": "2500056",
+     "componentIds": [
+      "T-WIWI-103481"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar: Modern OR and Innovative Logistics"
+    },
+    {
+     "eventNumber": "2550131",
+     "componentIds": [
+      "T-WIWI-103481"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar on Methodical Foundations of Operations Research (B)"
+    },
+    {
+     "eventNumber": "2550132",
+     "componentIds": [
+      "T-WIWI-103481"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar on Mathematical Optimization (MA)"
+    },
+    {
+     "eventNumber": "2550462",
+     "componentIds": [
+      "T-WIWI-103481"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar on Trending Topics in Optimization and Machine Learning (Master)"
+    },
+    {
+     "eventNumber": "2550473",
+     "componentIds": [
+      "T-WIWI-103481"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Seminar on Energy and Power Systems Optimization (Master)"
+    },
+    {
+     "eventNumber": "2500074",
+     "componentIds": [
+      "T-WIWI-103483"
+     ],
+     "types": [
+      "Seminar"
+     ],
+     "title": "Macroeconomic Forecasting"
+    }
+   ],
+   "match": "handbook-course-number",
+   "confidence": "exact",
+   "review": [
+    "Event 2500045 is shared by modules M-WIWI-103117, M-WIWI-107362.",
+    "Event 2540473 is shared by modules M-WIWI-103117, M-WIWI-107362."
+   ]
+  }
+ ]
+}

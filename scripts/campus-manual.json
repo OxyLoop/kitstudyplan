@@ -1,0 +1,123 @@
+{
+  "_comment": "Schedule records verified manually by the student from KIT Campus screenshots / pasted event details. scripts/sync-campus.py never overwrites these with incomplete automated results. Edit this file to add or correct verified records, then run: npm run sync:campus",
+  "semester": "WS 2026/27",
+  "events": [
+    {
+      "eventNumber": "2400163",
+      "moduleIds": [
+        "M-INFO-105623"
+      ],
+      "title": "Reinforcement Learning",
+      "type": "Lecture / Practice",
+      "verifiedAt": "2026-10-22",
+      "verifiedBy": "student (KIT Campus event details pasted into the planner)",
+      "appointments": [
+        {
+          "kind": "weekly",
+          "day": "Thu",
+          "start": "09:45",
+          "end": "11:15",
+          "startDate": "2026-10-29",
+          "sessions": 15,
+          "room": "11.10 Engelbert-Arnold-Hörsaal (EAS)",
+          "building": "11.10"
+        },
+        {
+          "kind": "weekly",
+          "day": "Fri",
+          "start": "11:30",
+          "end": "13:00",
+          "startDate": "2026-10-30",
+          "sessions": 15,
+          "room": "30.46 Neuer Hörsaal Chemie",
+          "building": "30.46"
+        }
+      ]
+    },
+    {
+      "eventNumber": "2400050",
+      "moduleIds": [
+        "M-INFO-107215"
+      ],
+      "title": "Distributed Computing",
+      "type": "Lecture",
+      "verifiedAt": "2026-10-23",
+      "verifiedBy": "student (KIT Campus screenshot)",
+      "appointments": [
+        {
+          "kind": "weekly",
+          "day": "Wed",
+          "start": "11:30",
+          "end": "13:00"
+        }
+      ]
+    },
+    {
+      "eventNumber": "0100027",
+      "moduleIds": [
+        "M-MATH-106053"
+      ],
+      "title": "Stochastic Simulation",
+      "type": "Lecture",
+      "verifiedAt": "2026-10-23",
+      "verifiedBy": "student (KIT Campus screenshot)",
+      "appointments": [
+        {
+          "kind": "weekly",
+          "day": "Fri",
+          "start": "09:45",
+          "end": "11:15"
+        }
+      ]
+    },
+    {
+      "eventNumber": "2400147",
+      "moduleIds": [
+        "M-INFO-107178"
+      ],
+      "title": "Natural Language Processing",
+      "type": "Lecture",
+      "verifiedAt": "2026-10-23",
+      "verifiedBy": "student (KIT Campus screenshot; reported conflict with Reinforcement Learning)",
+      "appointments": [
+        {
+          "kind": "weekly",
+          "day": "Thu",
+          "start": "09:45",
+          "end": "11:15"
+        }
+      ]
+    },
+    {
+      "eventNumber": "2400179",
+      "moduleIds": [
+        "M-INFO-106237"
+      ],
+      "title": "Geometric Deep Learning",
+      "type": "Lecture / Practice",
+      "verifiedAt": "2026-10-23",
+      "verifiedBy": "student (KIT Campus screenshot; reported conflict with Distributed Computing)",
+      "appointments": [
+        {
+          "kind": "weekly",
+          "day": "Wed",
+          "start": "11:30",
+          "end": "13:00"
+        }
+      ]
+    },
+    {
+      "eventNumber": "24000",
+      "moduleIds": [
+        "M-INFO-106810"
+      ],
+      "title": "Artificial Intelligence & IT-Security",
+      "type": "Lecture / Practice",
+      "verifiedAt": null,
+      "verifiedBy": null,
+      "appointments": [],
+      "note": "Schedule not yet verified."
+    }
+  ],
+  "_privacy": "Personal records (exam numbers, external course registrations) are kept out of this public file; import them in the app with 'Add from file'."
+}
